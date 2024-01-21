@@ -10,7 +10,7 @@ export default function WorkExprience({ experiences }: WorkExperienceProps) {
   return (
     <section className="container py-16 flex lg:gap-16 md:gap-4 gap-10 md:flex-row flex-col">
       <div className="max-w-[420px]">
-        <SectionTitle subtitle="experiências" title="Experiência Proficional" />
+        <SectionTitle subtitle="experiências" title="Experiências" />
         <p className="text-gray-400 mt-6">
           Estou disposto a encarar novos desafios e projetos inspiradores. Vamos
           trabalhar em conjunto para criar soluções surpreendentes para sua

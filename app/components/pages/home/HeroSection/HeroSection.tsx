@@ -20,7 +20,7 @@ export default function HeroSection({ homeInfo }: HomeSectionProps) {
   }
 
   return (
-    <section className="w-full lg:h-[755px] bg-hero-image bg-cover bg-center flex bg-no-repeat flex-col justify-end pb-10 sm:pb-32 py-32 lg:pb=[110px]">
+    <section className="w-full lg:h-[755px]  flex  flex-col justify-end pb-10 sm:pb-32 py-32 lg:pb=[110px]">
       <div className="container flex items-start justify-between flex-col-reverse lg:flex-row">
         <motion.div
           className="w-full lg:max-w-[530px]"
